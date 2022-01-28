@@ -251,6 +251,6 @@ ALTER TABLE NashvilleHousing
 -----------------------------------------------------------------------------------------
 /*
 
-Here we go, Now we have Clean, Tidy data and ready for the next step.
+Here we go, Now we have Clean, Tidy data and ready for the next step Exploratory Analysis.
 
 *\
